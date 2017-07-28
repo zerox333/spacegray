@@ -8,7 +8,7 @@
     {
         "class": "tabset_control",
         "layer0.texture": "",
-        "layer0.tint": [28, 31, 38], // -00
+        "layer0.tint": [35, 40, 48], // -00
         "layer0.inner_margin": 0,
         "layer0.opacity": 1,
         "content_margin": 0,
@@ -1176,6 +1176,16 @@
         "class": "tabset_control",
         "settings": ["spacegray_tabs_xlarge"],
         "tab_height": 40
+    },
+
+// 
+// TITLE BAR
+//
+  
+    {
+      "class": "title_bar",
+      "fg": [101, 115, 127],
+      "bg": [35, 40, 48]
     }
 
 ]
